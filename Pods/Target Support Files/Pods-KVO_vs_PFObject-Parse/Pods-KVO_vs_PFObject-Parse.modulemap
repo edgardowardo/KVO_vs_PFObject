@@ -1,0 +1,6 @@
+framework module Parse {
+  umbrella header "Pods-KVO_vs_PFObject-Parse-umbrella.h"
+
+  export *
+  module * { export * }
+}
