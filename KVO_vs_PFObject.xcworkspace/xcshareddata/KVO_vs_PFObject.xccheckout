@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A81A273-64C2-4A4C-87D9-344E044C084A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KVO_vs_PFObject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB8F098867DAA715CB2642E702BF320B828072BB</key>
+		<string>https://github.com/edgardowardo/KVO_vs_PFObject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KVO_vs_PFObject.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB8F098867DAA715CB2642E702BF320B828072BB</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/edgardowardo/KVO_vs_PFObject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB8F098867DAA715CB2642E702BF320B828072BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB8F098867DAA715CB2642E702BF320B828072BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KVO_vs_PFObject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
